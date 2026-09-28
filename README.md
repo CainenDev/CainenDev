@@ -8,10 +8,10 @@ I'm especially interested in understanding how software works beyond just writin
 
 ### Current Focus
 
-* 💻 Programming and software development
-* 🎮 2D game development with Unity
-* 🧠 Strengthening C++, C#, and Python fundamentals
-* 🛠️ Building personal projects and learning through practice
-* 🚀 Preparing for a future career in software engineering
+* Programming and software development
+* 2D game development with Unity
+* Strengthening C++, C#, and Python fundamentals
+* Building personal projects and learning through practice
+* Preparing for a future career in software engineering
 
 I'm always looking for opportunities to learn, collaborate, and turn ideas into working software.
